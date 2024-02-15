@@ -30,7 +30,7 @@ You can obtain the connection string by navigating to your Azure Cosmos DB accou
 ### Tech Stack
 
 | Name | Description |
-| --- | --- |
+| :--- | ---: |
 | [Next.js](https://nextjs.org/) | React framework |
 | [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/) | NoSQL database service in Azure |
 | [Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/) | App Hosting PaaS |
@@ -74,7 +74,7 @@ You can obtain the connection string by navigating to your Azure Cosmos DB accou
 Official estimate from Azure Pricing Calculator - [Azure Pricing Calculator](https://azure.com/e/d2243ee749a44397a3483f2569578564)
 
 | Service Category | Service Type | Description | Estimated Monthly Cost | Estimated Upfront Cost |
-| --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: |
 | Compute | Azure App Service | ***Basic Tier; 1 B1 (1 Core(s), 1.75 GB RAM, 10 GB Storage) x 730 Hours; Linux OS; 0 SNI SSL Connections; 0 IP SSL Connections; 0 Custom Domains; 0 Standard SLL Certificates; 0 Wildcard SSL Certificates*** | $12.41 | $0 |
 | Database | Azure Cosmos DB | ***Azure Cosmos DB for NoSQL (formerly Core), Serverless, Always-free quantity disabled, Single Region Write (Single-Master) - East US (Write Region), 4 million RUs, 5 GB transactional storage, 2 copies of periodic backup storage, Dedicated Gateway not enabled*** | $2.25 | $0 |
 | Developer Tools | Azure DevOps | ***Basic Plan; 5 User(s)*** | $0 | $0 |
