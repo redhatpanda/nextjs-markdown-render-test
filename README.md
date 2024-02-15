@@ -22,9 +22,6 @@ You can obtain the connection string by navigating to your Azure Cosmos DB accou
 
 - Start the project - `npm run dev`
 
-<br>
-<br>
-
 ## Technical Documentation
 
 ### Tech Stack
@@ -35,8 +32,6 @@ You can obtain the connection string by navigating to your Azure Cosmos DB accou
 | [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/) | NoSQL database service in Azure |
 | [Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/) | App Hosting PaaS |
 | [Chakra UI](https://chakra-ui.com/) | Simple, Modular & Accessible UI Components for your React Applications |
-
-<br>
 
 ### Folder Structure
 ```bash
@@ -61,13 +56,9 @@ You can obtain the connection string by navigating to your Azure Cosmos DB accou
 └── server.js
 ```
 
-<br>
-
 ### High Level Technical Architecture
 
 ![High Level Technical Design](https://ambitustemplateassets.blob.core.windows.net/assets/cosmos-todo.png?sp=r&st=2024-02-15T02:27:22Z&se=2029-12-31T10:27:22Z&sv=2022-11-02&sr=b&sig=LvRyc9VpN1P3p60Y2R8LPTGtRzW%2F8K9D0L9ZL%2B4kmBc%3D)
-
-<br>
 
 ### Cost to host in Azure
 
